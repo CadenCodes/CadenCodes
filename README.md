@@ -1,8 +1,15 @@
-- 👋 Hi, I’m @CadenCodes
-- Working on various programs at the moment. Wish me luck!
-- 📫Reach out to me in Mr. Robinson's Coding Interest Group @ Davie High School or @ JovianGamer#1032 on Discord.
+Hello I am CadenCodes. I am currently a student coding on the side. I helped to found a Coding Interest Group at my school.
 
-<!---
-CadenCodes/CadenCodes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+
+How to use the software:
+Currently only works in Command Terminal (sorry but I haven't mastered visual python modules yet)
+Uses Newton's Universal Gravitation to calculate the force of gravity between two objects.
+Supports scientific notation in the form of e+ or e- the power
+Useful for basic scientific exploration
+
+Note: for the software to yield correct results, inputs must be in the units specified in the question.
+
+Thank you for supporting my software, and I hope to see ya soon!
+
+CEC
